@@ -26,6 +26,10 @@ ______
 voici le rendu visuel attendu :
 image ici
 
+## API
+
+Vous utiliserez l'API https://jsonplaceholder.typicode.com/ qui fournit des données pour les posts/comments/images/users
+
 ## Features :
 Le header comprend :
     * un logo (avec une redirection vers la page accueil
