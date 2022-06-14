@@ -2,8 +2,11 @@
 
 ## 1. GUIDELINES :
 
-## Languages :
-React JS
+## Stack :
+React JS (you can use MUI)
+
+## Teams :
+3 - 4 persons
 
 ## Project management :
 Scrum (use Trello)
