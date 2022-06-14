@@ -1,6 +1,30 @@
-# GUIDELINES
+# 🦄 THE UNICORN BLOG
 
-le header comprend :
+## 1. GUIDELINES :
+
+## Languages :
+React JS
+
+## Project management :
+Scrum (use Trello)
+
+## Delay :
+5 days
+
+## Deliveries :
+    * les fichiers sur gitlab/github
+    * le lien vers votre site déployé (use GitHub Page)
+
+______
+
+## 2. Specs (features) :
+
+## Wireframes :
+voici le rendu visuel attendu :
+image ici
+
+## Features :
+Le header comprend :
     * un logo (avec une redirection vers la page accueil
     * un bouton Upload
     * un bouton Gallery
