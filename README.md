@@ -1,22 +1,31 @@
 # 🦄 THE UNICORN BLOG
 
+Ce projet se réalise en équipe de 3 à 4 personnes.
+Vous intégrerez les 3 pages fournies en respectant les features demandées.
+Vous utiliserez la méthodologie Scrum en utilisant un Kanban.
+Il vous faudra également utiliser un logiciel de versionnage type Git.
+
+Si le temps le permet, nous ferons une mise en situation réelle et vous aurez à pitcher votre solution devant un jury en les convaincants de la pertinence de vos choix techniques et de votre organisation.
+
+À vous de jouer!!
+
 ## 1. GUIDELINES :
 
 ## Stack :
-React JS (you can use MUI)
+React JS (you can use libraries such as MUI)
 
 ## Teams :
 3 - 4 persons
 
 ## Project management :
-Scrum (use Trello)
+Scrum (we recommend that you use Trello)
 
 ## Delay :
 5 days
 
 ## Deliveries :
-    * les fichiers sur gitlab/github
-    * le lien vers votre site déployé (use GitHub Page)
+    * repository on gitlab/github
+    * link of the online website (we recommend that you use GitHub Page)
 
 ______
 
