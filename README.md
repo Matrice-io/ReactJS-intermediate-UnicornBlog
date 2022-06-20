@@ -26,6 +26,7 @@ Scrum (we recommend that you use Trello)
 ## Deliveries :
     * repository on gitlab/github
     * link of the online website (we recommend that you use GitHub Page)
+    * Trello (screenshots)
 
 ______
 
