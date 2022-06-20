@@ -1,6 +1,6 @@
 # 🦄 THE UNICORN BLOG
 
-Ce projet se réalise en équipe de 3 à 4 personnes.
+Ce projet se réalise en équipe de 2 personnes.
 Vous intégrerez les 3 pages fournies en respectant les features demandées.
 Vous utiliserez la méthodologie Scrum en utilisant un Kanban.
 Il vous faudra également utiliser un logiciel de versionnage type Git.
@@ -15,7 +15,7 @@ Si le temps le permet, nous ferons une mise en situation réelle et vous aurez �
 React JS (you can use libraries such as MUI)
 
 ## Teams :
-3 - 4 persons
+2 persons
 
 ## Project management :
 Scrum (we recommend that you use Trello)
@@ -32,7 +32,7 @@ ______
 ## 2. Specs (features) :
 
 ## Wireframes :
-voici le rendu visuel attendu :
+voici les wireframes, le rendu visuel attendu n'est pas important dans un premier temps :
 ![wireframe1](./React-1.png)
 ![wireframe2](./React-2.png)
 ![wireframe3](./React-3.png)
@@ -75,3 +75,5 @@ Vous utiliserez l'API https://jsonplaceholder.typicode.com/ qui fournit des donn
 * Au lieu d'une page Upload, vous utiliserez une Modal
 
 * Vous ajouterez un formulaire pour poster un commentaire sur chaque article
+
+* Améliorez le rendu visuel
