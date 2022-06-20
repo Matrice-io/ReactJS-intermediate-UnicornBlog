@@ -33,33 +33,37 @@ ______
 
 ## Wireframes :
 voici le rendu visuel attendu :
-image ici
+![wireframe1](./React-1.png)
+![wireframe2](./React-2.png)
+![wireframe3](./React-3.png)
+![wireframe4](./React-4.png)
+
 
 ## API
 
 Vous utiliserez l'API https://jsonplaceholder.typicode.com/ qui fournit des données pour les posts/comments/images/users
 
 ## Features :
-Le header comprend :
+**Le header comprend :**
     * un logo (avec une redirection vers la page accueil
     * un bouton Upload
     * un bouton Gallery
 
-La page d'accueil comprend :
+**La page d'accueil comprend :**
     * le header
     * un champ de texte permettant de filtrer les posts
     * les posts 
         Chaque post est cliquable et redirige vers sa page détail
 
-La page détail de chaque post comprend :
+**La page détail de chaque post comprend :**
     * le titre 
     * le contenu de l'article
     * la liste des commentaires liés à ce post (avec le nom et email de l'utilisateur)
         
-La page Gallery comprend :
+**La page Gallery comprend :**
     * les photos
     
-La page upload comprend :
+**La page upload comprend :**
     * un formulaire qui contient :
         un champ titre
         un champ contenu
@@ -68,6 +72,6 @@ La page upload comprend :
 
 ## Bonus :
 
-* Au lieu d'une page Upload, vous utiliserez une Modal :
+* Au lieu d'une page Upload, vous utiliserez une Modal
 
 * Vous ajouterez un formulaire pour poster un commentaire sur chaque article
