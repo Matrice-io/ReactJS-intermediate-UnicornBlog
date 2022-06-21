@@ -1,7 +1,6 @@
 # 🦄 THE UNICORN BLOG
 
-Ce projet se réalise en équipe de 2 personnes.
-Vous intégrerez les 3 pages fournies en respectant les features demandées.
+Ce projet consiste à intégrer les 3 pages fournies en respectant les features demandées.
 Vous utiliserez la méthodologie Scrum en utilisant un Kanban.
 Il vous faudra également utiliser un logiciel de versionnage type Git.
 
@@ -12,28 +11,26 @@ Si le temps le permet, nous ferons une mise en situation réelle et vous aurez �
 ## 1. GUIDELINES :
 
 ## Stack :
-React JS (you can use libraries such as MUI)
-
-## Teams :
-2 persons
+React JS / CSS (you can use libraries such as MUI or SASS)
 
 ## Project management :
 Scrum (we recommend that you use Trello)
 
 ## Delay :
-5 days
+4 days
 
 ## Deliveries :
     * repository on gitlab/github
-    * link of the online website (we recommend that you use GitHub Page)
     * Trello (screenshots)
+    * link of the online website (we recommend that you use GitHub Page)
+    
 
 ______
 
 ## 2. Specs (features) :
 
 ## Wireframes :
-voici les wireframes, le rendu visuel attendu n'est pas important dans un premier temps :
+voici les wireframes, elles sont simples, c'est parce que le rendu visuel attendu n'est pas important dans un premier temps :
 ![wireframe1](./React-1.png)
 ![wireframe2](./React-2.png)
 ![wireframe3](./React-3.png)
